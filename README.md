@@ -22,10 +22,9 @@ Bienvenido a mi portafolio en GitHub. Soy un **ingeniero en comunicaciones y ele
 ---
 
 ## 📂 Proyectos Destacados
-1. **[Landing Page Responsiva](#)** *(en desarrollo)*  
-   Página web adaptable creada con **HTML**, **CSS** y **Bootstrap**.
-2. **[Pizarrón Electrónico con Django](#)**  
-   Herramienta para control y gestión de mantenimiento, desarrollada con **Django** y **Python**.
+1. **[Menú de Bebidas - Mixología Creativa](https://github.com/CarlosPicazo18/menu-cocteleria)**  
+   Proyecto de diseño interactivo en **Figma**, que incluye branding, fotografía y un menú funcional.
+*(Próximamente se agregarán más proyectos relacionados con UX/UI y desarrollo web).*
 
 ---
 
