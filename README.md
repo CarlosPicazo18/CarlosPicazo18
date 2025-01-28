@@ -24,6 +24,8 @@ Bienvenido a mi portafolio en GitHub. Soy un **ingeniero en comunicaciones y ele
 ## 📂 Proyectos Destacados
 1. **[Menú de Bebidas - Mixología Creativa](https://github.com/CarlosPicazo18/menu-cocteleria)**  
    Proyecto de diseño interactivo en **Figma**, que incluye branding, fotografía y un menú funcional.
+2. **[Gestor de Medicamentos Politécnico - Diseño UX/UI]( https://github.com/CarlosPicazo18/app-medicamentos-ui-ipn)**  
+   Diseño conceptual para una aplicación web enfocada en la gestión de medicamentos. Incluye flujo de usuario, interfaz de administración y accesibilidad.
 
 ---
 
