@@ -43,6 +43,6 @@ Además del desarrollo web, soy un apasionado de la **mixología** y administro 
 ---
 
 ## 📫 Conéctate conmigo
-- **LinkedIn:** [Carlos Picazo](linkedin.com/in/carlos-picazo-vázquez-89634316a)
+- **LinkedIn:** [Carlos Picazo](https://www.linkedin.com/in/carlos-picazo-v%C3%A1zquez-89634316a/)
 - **Correo:** ccppev@hotmail.com o cpicazov@gmail.com
 - **GitHub:** [CarlosPicazo18](https://github.com/CarlosPicazo18)
