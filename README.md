@@ -40,7 +40,7 @@ Además del desarrollo web, soy un apasionado de la **mixología** y administro 
 ### 🍸 Proyecto: Menú de Coctelería
 - **Herramientas:** Figma, diseño gráfico.
 - **Descripción:** Menú visual y funcional para eventos, combinando diseño profesional y enfoque en el cliente.  
-- **Enlace al menú interactivo:** [Visualízalo en Figma](https://www.figma.com/design/S9dha6Rr2aC5TTxC89q8qh/Menu-de-bebidas_a%C3%B1o-nuevo_2024?node-id=0-1&t=2QKKPcwuxhdEjgK6-1)
+- **Enlace al menú interactivo:** [Visualízalo en Figma](https://www.figma.com/proto/S9dha6Rr2aC5TTxC89q8qh/Menu-de-bebidas_a%C3%B1o-nuevo_2024?node-id=1-3&starting-point-node-id=1%3A3)
 
 ---
 
